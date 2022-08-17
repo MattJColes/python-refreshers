@@ -7,7 +7,7 @@ Matt's Python refreshers for data:
 ### Week 2 - OOP, Testing, Lambda and DynamoDB
 * [Finishing Learn Python On AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/3d705026-9edc-40e8-b353-bdabb116c89c/en-US)
 * [SAM for Lambdas written in Python](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
-* [OOP Fundamentals](https://realpython.com/python3-object-oriented-programming/#parent-classes-vs-child-classes)
+* [OOP Fundamentals](https://www.programiz.com/python-programming/object-oriented-programming)
 * [Data Classes](https://realpython.com/python-data-classes/)
 * [PyTest](https://realpython.com/pytest-python-testing/)
 
@@ -33,3 +33,6 @@ Matt's Python refreshers for data:
 
 ### Week 8 - Final Journey
 * Golden Paths!!!
+
+Extras!
+* [Pygame](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/)
