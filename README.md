@@ -1,10 +1,10 @@
 # python-refreshers
 Matt's Python refreshers for data:
 
-### Week 1 - The very basics
+### Week 1 - Python basics
 * [Learn Python On AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/3d705026-9edc-40e8-b353-bdabb116c89c/en-US)
 
-### Week 2 - OOP, testing and Python
+### Week 2 - OOP, Testing, Lambda and DynamoDB
 * [Finishing Learn Python On AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/3d705026-9edc-40e8-b353-bdabb116c89c/en-US)
 * [SAM for Lambdas written in Python](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
 * [OOP Fundamentals](https://realpython.com/python3-object-oriented-programming/#parent-classes-vs-child-classes)
@@ -29,7 +29,7 @@ Matt's Python refreshers for data:
 * [CDK and Python](https://cdkworkshop.com/30-python.html)
 
 ### Week 7 - Let's build a chatbot with Python and LEX
-* []()
+* [LEX Chatbots](https://github.com/MattJColes/amazon-lex-amplify-workshop/tree/master/lab1-Building_Chat_Bots_With_Lex)
 
 ### Week 8 - Final Journey
 * Golden Paths!!!
