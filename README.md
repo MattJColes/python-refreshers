@@ -7,6 +7,11 @@ Matt's Python refreshers for data:
 ### Week 3 - Testing, Lambda and DynamoDB
 * [DynamoDB and Python](https://catalog.us-east-1.prod.workshops.aws/workshops/3d705026-9edc-40e8-b353-bdabb116c89c/en-US/persisting-data/dynamodb)
 * [SAM for Lambdas written in Python](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
+<<<<<<< HEAD
+=======
+* [OOP Fundamentals](https://www.programiz.com/python-programming/object-oriented-programming)
+* [Data Classes](https://realpython.com/python-data-classes/)
+>>>>>>> 81ff8dfbe2c1e4521c87e941d67936e5d2e6d507
 * [PyTest](https://realpython.com/pytest-python-testing/)
 
 ### Week 4 - OOP, Reading csv data
@@ -33,5 +38,13 @@ Matt's Python refreshers for data:
 ### Week 11 - Let's build a chatbot with Python and LEX
 * [LEX Chatbots](https://github.com/MattJColes/amazon-lex-amplify-workshop/tree/master/lab1-Building_Chat_Bots_With_Lex)
 
+<<<<<<< HEAD
 ### Week 12 - Final Journey
 * Golden Paths!!!
+=======
+### Week 8 - Final Journey
+* Golden Paths!!!
+
+Extras!
+* [Pygame](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/)
+>>>>>>> 81ff8dfbe2c1e4521c87e941d67936e5d2e6d507
