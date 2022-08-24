@@ -25,7 +25,8 @@ def get_next_result(csv_file, func):
         yield func(stats)
 ```
 #### Read and write CSV's from S3
-[Tutorial](https://www.stackvidhya.com/write-pandas-dataframe-as-csv-to-s3-using-boto3/)
+Create a bucket first: https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html
+Then follow the [Tutorial](https://www.stackvidhya.com/write-pandas-dataframe-as-csv-to-s3-using-boto3/)
 
 Additional tutorial reading on Pandas, CSV's, Excel Sheets
 * [Using Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
