@@ -12,7 +12,7 @@ Let's start learning!
 #### [Learn Python On AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/3d705026-9edc-40e8-b353-bdabb116c89c/en-US)
 
 ## Week 3
-All about reading and writing data!
+All about reading and writing data! AWS Glue reads and writes CSV's as a format so this week will be all about transforming CSV's and working with S3! 
 
 #### Reading and Writing CSV's
 [Tutorial](https://realpython.com/python-interview-problem-parsing-csv-files/) - Start with this snippet for Reading and Writing CSV's:
@@ -33,7 +33,7 @@ Additional tutorial reading on Pandas, CSV's, Excel Sheets
 * [Manipulating Spreadsheets](https://realpython.com/openpyxl-excel-spreadsheets-python/)
 
 ## Week 4
-Secrets and visualising data
+Using Python with Secrets Manager and Amazon Redshift
 
 #### Managing secrets safely in AWS:
 [Tutorial](https://hands-on.cloud/working-with-secrets-manager-in-python-using-boto3/)
@@ -41,16 +41,25 @@ Secrets and visualising data
 #### Avoiding using your AWS credentials on servers and have a special AWS IAM role:
 [Tutorial](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html)
 
+#### Boto3 and Redshift
+Redshift with ETL Glue jobs and Secrets Manager workshop [Workshop](https://redshift-analytics.workshop.aws/intro/overview.html)
+
+Additional tutorial reading:
+* [Using Python to load data into Redshift](https://docs.aws.amazon.com/redshift/latest/mgmt/python-redshift-driver.html))
+
+## Week 5
+Exploring AWS Glue with Python. We'll run through the AWS Glue Workshop together:
+
+####[Glue Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/ee59d21b-4cb8-4b3d-a629-24537cf37bb5/en-US/intro)
+
+## Week 6
+Visualising data...
+
 #### Visualising data with Matlib Plot
 [Tutorial](https://matplotlib.org/stable/tutorials/introductory/index.html)
 
 #### Using Seaborn for additional visualisations
 [Tutorial](https://www.geeksforgeeks.org/python-seaborn-tutorial/)
-
-## Week 5
-#### Boto3 and Redshift
-[Tutorial](https://hevodata.com/learn/boto3-redshift/)
-* [Glue and Boto3](https://www.1week4.com/it/aws/aws-glue-tutorial-boto3/)
 
 ---
 
@@ -61,8 +70,6 @@ Secrets and visualising data
 * [PyTest](https://realpython.com/pytest-python-testing/)
 * [OOP Fundamentals](https://realpython.com/python3-object-oriented-programming/#parent-classes-vs-child-classes)
 * [Data Classes](https://realpython.com/python-data-classes/)
-* 
-
 
 ## Week 7 and 8 - All about Flask
 * [Learning Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
